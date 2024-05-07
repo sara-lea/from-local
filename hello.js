@@ -7,6 +7,14 @@ const b=()=>{
     return "5"
 }
 
+
 const e=()=>{
   alert("e")
+
+}
+const d=()=>{
+  confirm("are U sure?")
+}
+const c=()=>{
+
 }
