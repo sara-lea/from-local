@@ -8,6 +8,10 @@ const b=()=>{
 }
 
 
+const e=()=>{
+  alert("e")
+
+}
 const d=()=>{
   confirm("are U sure?")
 }
