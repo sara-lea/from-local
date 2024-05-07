@@ -16,5 +16,5 @@ const d=()=>{
   confirm("are U sure?")
 }
 const c=()=>{
-
+  alert("c")
 }
